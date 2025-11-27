@@ -1,0 +1,7 @@
+{
+  "name": "Create map",
+  "description": "An AI-powered map explorer that uses Gemini Google Maps Grounding to find, describe, and plot locations on an interactive map.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
